@@ -1,0 +1,7 @@
+html, body{
+  height: 100%;
+}
+
+.loginParent-box{
+    height: calc(100% - 7rem);
+}
